@@ -1,3 +1,3 @@
 # lab4
 
-	This repository contains all the lessons in our TLE class.
+	This repository contains the applications of all our lessons about html.
